@@ -1,4 +1,4 @@
-$primaryColor: #5472d4 !default;
+$primaryColor: #63cbb2 !default;
 $primaryLightColor: #91a4e3 !default;
 $primaryLighterColor: scale-color($primaryColor, $lightness: 60%) !default;
 $primaryDarkColor: scale-color($primaryColor, $lightness: -5%) !default;
@@ -27,7 +27,7 @@ $colors: (
 //reused color variables
 $shade000: #ffffff !default; //surface
 $shade100: #f5f5f5 !default; //header background
-$shade200: #edf0fa !default; //hover background
+$shade200: #eceff2 !default; //hover background
 $shade300: #ebebeb !default; //border, divider
 $shade400: #e1e1e1 !default; //input border
 $shade500: #cecece !default; //input hover border
